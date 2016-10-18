@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "623759057842",
+    "project_id": "onlinecomm-1283"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623759057842:android:6e69f54eba9590fa",
+        "android_client_info": {
+          "package_name": "in.co.murs.onco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFoIHjStpsYdHPMnZQW6_3rzk_D37Nke0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623759057842:android:13be7961d48a673c",
+        "android_client_info": {
+          "package_name": "in.co.murs.chat24x7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFoIHjStpsYdHPMnZQW6_3rzk_D37Nke0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
